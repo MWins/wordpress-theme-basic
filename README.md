@@ -10,7 +10,7 @@ Used in the [git with Wordpress Workflow - gist](https://gist.github.com/MWins/b
 
 [instructions - SO](http://stackoverflow.com/questions/10963878/how-do-you-fork-your-own-project-on-github)
 
-[instructions - article](bitdrift.com/post/4534738938/fork-your-own-project-on-github)
+[instructions - article](http://bitdrift.com/post/4534738938/fork-your-own-project-on-github)
 summary :
 
     git clone https://github.com/userName/Repo New_Repo
