@@ -3,9 +3,6 @@ Example bare Wordpress theme. Fork this repo to start developing a new Wordpress
 
 
 
-Used in the [git with Wordpress Workflow - gist](https://gist.github.com/MWins/b51c977f28a94dc098b7)
-
-
 ##### Fork your own repo 
 
 [instructions - SO](http://stackoverflow.com/questions/10963878/how-do-you-fork-your-own-project-on-github)
